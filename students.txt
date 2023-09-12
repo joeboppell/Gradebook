@@ -1,0 +1,9 @@
+John Smith,93.2:11
+Billy Baker,86.8:12
+Harry Baker,90.2:10
+Craven Moore,78.2:11
+Buster Jackson,73.7:9
+Phillip Johnson,83.2:12
+Anita Ford,96.1:10
+Connor Hackford,77.4:11
+Scrooge McDuck,91.7:9
